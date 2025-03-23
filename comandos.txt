@@ -1,0 +1,5 @@
+git init >> inicializa o repositorio local
+git config --global user name >> registra nome usuario de forma glogal para este computador
+git config --global user email >> registra email usuario de forma global para este computador
+OBS: name e email devem ser os mesmos do GITHUB
+git add --all >> adiciona todos os arquivos ao dietorio local do git commit -m"mensagem sobre a ação atual"
