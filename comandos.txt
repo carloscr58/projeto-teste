@@ -5,3 +5,4 @@ OBS: name e email devem ser os mesmos do GITHUB
 git add --all >> adiciona todos os arquivos ao dietorio local do git commit -m"mensagem sobre a ação atual"
 git branch nome-da-branch
 git checkout nome-da-branch
+git push >> enviar alterações  para repositorio remoto GITHUB
